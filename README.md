@@ -1,2 +1,2 @@
 # Read-me
-First Assgnment
+First Assignment
